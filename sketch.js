@@ -27,7 +27,7 @@
   //creating invisible ground 1,2
   invisibleGround1 = createSprite(411,200,10,400);
   invisibleGround1.visible = false
-  invisibleGround2 = createSprite(1,200,10,400);
+  invisibleGround2 = createSprite(10,200,10,400);
   invisibleGround2.visible = false
   }
 
